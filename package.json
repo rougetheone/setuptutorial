@@ -1,0 +1,24 @@
+{
+    "author": "roflcopter910@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "setup-tutorial",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "Setup Tutorial",
+        "enableMultiJS": false,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "uuid": "52adb510-cf7c-4b6f-8c2d-106338f7aa5f",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
